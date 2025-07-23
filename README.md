@@ -1,13 +1,4 @@
-# Project: Express API
+# First API
 
-This program starts a server that deals with envelope requests.
-
-### Practice of: 
-
-+ express.js
-+ GET, POST, DELETE requests
-+ Working with Postman
-
-### To simulate responses Postman app needs to be used. 
-
-### LICENSE [MIT](/LICENSE)
+* One of my first projects in coding back-end. Where I use RESTful to tell the server what to do with some data via GET,POST,PUT,DELETE!
+* Also I did use a class which I then used to create some objects and save them in an array! Also I did manipulate the objects in the array!
